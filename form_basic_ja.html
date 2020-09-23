@@ -1,12 +1,13 @@
 ﻿<!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <title>Form_basic_ja</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/form_basic_ja/styles.css" type="text/css" rel="stylesheet"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet" />
+    <link href="data/styles.css" type="text/css" rel="stylesheet" />
+    <link href="files/form_basic_ja/styles.css" type="text/css" rel="stylesheet" />
     <script src="resources/scripts/jquery-3.2.1.min.js"></script>
     <script src="resources/scripts/axure/axQuery.js"></script>
     <script src="resources/scripts/axure/globals.js"></script>
@@ -40,14 +41,95 @@
     <script src="data/document.js"></script>
     <script src="files/form_basic_ja/data.js"></script>
     <script type="text/javascript">
-      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
-      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
-      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+        $axure.utils.getTransparentGifPath = function() {
+            return 'resources/images/transparent.gif';
+        };
+        $axure.utils.getOtherPath = function() {
+            return 'resources/Other.html';
+        };
+        $axure.utils.getReloadPath = function() {
+            return 'resources/reload.html';
+        };
+
     </script>
-  </head>
-  <body>
+    <script>
+        window['_fs_debug'] = false;
+        window['_fs_host'] = 'fullstory.com';
+        window['_fs_script'] = 'edge.fullstory.com/s/fs.js';
+        window['_fs_org'] = 'Y9T0C';
+        window['_fs_namespace'] = 'FS';
+        (function(m, n, e, t, l, o, g, y) {
+            if (e in m) {
+                if (m.console && m.console.log) {
+                    m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');
+                }
+                return;
+            }
+            g = m[e] = function(a, b, s) {
+                g.q ? g.q.push([a, b, s]) : g._api(a, b, s);
+            };
+            g.q = [];
+            o = n.createElement(t);
+            o.async = 1;
+            o.crossOrigin = 'anonymous';
+            o.src = 'https://' + _fs_script;
+            y = n.getElementsByTagName(t)[0];
+            y.parentNode.insertBefore(o, y);
+            g.identify = function(i, v, s) {
+                g(l, {
+                    uid: i
+                }, s);
+                if (v) g(l, v, s)
+            };
+            g.setUserVars = function(v, s) {
+                g(l, v, s)
+            };
+            g.event = function(i, v, s) {
+                g('event', {
+                    n: i,
+                    p: v
+                }, s)
+            };
+            g.anonymize = function() {
+                g.identify(!!0)
+            };
+            g.shutdown = function() {
+                g("rec", !1)
+            };
+            g.restart = function() {
+                g("rec", !0)
+            };
+            g.log = function(a, b) {
+                g("log", [a, b])
+            };
+            g.consent = function(a) {
+                g("consent", !arguments.length || a)
+            };
+            g.identifyAccount = function(i, v) {
+                o = 'account';
+                v = v || {};
+                v.acctId = i;
+                g(o, v)
+            };
+            g.clearUserCookie = function() {};
+            g._w = {};
+            y = 'XMLHttpRequest';
+            g._w[y] = m[y];
+            y = 'fetch';
+            g._w[y] = m[y];
+            if (m[y]) m[y] = function() {
+                return g._w[y].apply(this, arguments)
+            };
+            g._v = "1.2.0";
+        })(window, document, window['_fs_namespace'], 'script', 'user');
+
+    </script>
+</head>
+
+<body>
     <div id="base" class="">
     </div>
     <script src="resources/scripts/axure/ios.js"></script>
-  </body>
+</body>
+
 </html>
