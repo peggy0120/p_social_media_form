@@ -19,10 +19,10 @@
 .button {
 }
 .heading_1 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Roboto-Bold', 'Roboto Bold', 'Roboto', sans-serif;
   font-weight:bold;
   font-style:normal;
-  font-size:32px;
+  font-size:64px;
   text-align:left;
 }
 .heading_2 {
