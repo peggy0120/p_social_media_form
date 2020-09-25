@@ -116,6 +116,8 @@
   text-align:left;
   line-height:32px;
 }
+.table_cell {
+}
 .flow_shape {
 }
 .line {
@@ -124,5 +126,7 @@
   color:#999999;
 }
 .form_disabled {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
