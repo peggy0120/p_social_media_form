@@ -34,7 +34,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-image:url('../../images/index/regen/u0_state0.png');
+  background-image:url('../../images/index/u0_state0.png');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
@@ -81,7 +81,7 @@
   border-width:0px;
   position:absolute;
   left:152px;
-  top:751px;
+  top:808px;
   width:800px;
   height:60px;
   display:flex;
@@ -134,7 +134,7 @@
   border-width:0px;
   position:absolute;
   left:152px;
-  top:543px;
+  top:600px;
   width:800px;
   height:192px;
   display:flex;
@@ -170,7 +170,7 @@
   border-width:0px;
   position:absolute;
   left:152px;
-  top:811px;
+  top:868px;
   width:800px;
   height:60px;
   display:flex;
