@@ -170,7 +170,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -182,7 +182,7 @@
   width:505px;
   height:32px;
   display:flex;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -212,7 +212,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -224,7 +224,7 @@
   width:140px;
   height:56px;
   display:flex;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -249,7 +249,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -269,7 +269,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Semibold', 'PingFang TC Semibold', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:650;
   font-style:normal;
 }
@@ -662,7 +662,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   color:#FF0018;
@@ -676,7 +676,7 @@
   width:412px;
   height:18px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   color:#FF0018;
@@ -848,7 +848,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:28px;
@@ -861,7 +861,7 @@
   width:742px;
   height:80px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:28px;
@@ -902,7 +902,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -972,7 +972,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1042,7 +1042,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1112,7 +1112,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1182,7 +1182,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1260,7 +1260,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1331,7 +1331,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1402,7 +1402,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1481,7 +1481,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1552,7 +1552,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1623,7 +1623,7 @@
   width:197px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1692,7 +1692,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1706,7 +1706,7 @@
   width:65px;
   height:22px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1738,7 +1738,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1752,7 +1752,7 @@
   width:33px;
   height:22px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1784,7 +1784,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1798,7 +1798,7 @@
   width:97px;
   height:22px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1830,7 +1830,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1844,7 +1844,7 @@
   width:81px;
   height:22px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1876,7 +1876,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1890,7 +1890,7 @@
   width:33px;
   height:22px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1922,7 +1922,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1936,7 +1936,7 @@
   width:81px;
   height:44px;
   display:flex;
-  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1978,7 +1978,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2049,7 +2049,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2120,7 +2120,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2199,7 +2199,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2270,7 +2270,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2349,7 +2349,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2420,7 +2420,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2491,7 +2491,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2562,7 +2562,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -2633,7 +2633,7 @@
   width:198px;
   height:26px;
   display:flex;
-  font-family:'PingFangTC-Regular', 'PingFang TC', sans-serif;
+  font-family: sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
