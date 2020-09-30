@@ -228,7 +228,7 @@
 
 #u83_div {
     border-width: 0px;
-    position: absolute;
+    /*    position: absolute;*/
     left: 0px;
     top: 0px;
     width: 69px;
@@ -259,16 +259,17 @@
     align-self: flex-start;
     padding: 0px 0px 0px 0px;
     box-sizing: border-box;
-    width: 100%;
+    width: 120%;
 }
 
-#u83_div.mouseOver {
+#u83_div:hover {
     border-width: 0px;
-    position: absolute;
+    /*    position: absolute;*/
     left: 0px;
     top: 0px;
     width: 69px;
     height: 32px;
+    color: rgba(116, 131, 120, 1);
     background: inherit;
     background-color: rgba(255, 255, 255, 0);
     border: none;
@@ -12142,7 +12143,7 @@
     top: 678px;
     width: 186px;
     height: 48px;
-    display: flex;
+    /*    display: flex;*/
     font-size: 16px;
     color: #F2F2F2;
     text-align: left;
